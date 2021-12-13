@@ -15,5 +15,9 @@ sudo amazon-linux-extras install ansible2
 # Install using python
 pip install ansible
 
+# Ansible Architecture
+![ansiblenew](https://user-images.githubusercontent.com/58475664/145809334-e6cfd00e-759d-49a2-ae79-2646db2a535c.jpg)
+
+
 
 
